@@ -6,6 +6,9 @@ import pandas as pd
 import plotly.express as px
 import dash_bootstrap_components as dbc
 import pickle
+import pandas as pd
+import StandardScaler
+import train_test_split
 
 # import csv file and preprocess data
 df = pd.read_csv("/root/code/Cars.csv")
@@ -81,3 +84,5 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 #http://localhost:8100/
+
+

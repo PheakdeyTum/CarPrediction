@@ -110,6 +110,24 @@
         "documentation": {}
     },
     {
+        "label": "StandardScaler",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "StandardScaler",
+        "description": "StandardScaler",
+        "detail": "StandardScaler",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "train_test_split",
+        "description": "train_test_split",
+        "detail": "train_test_split",
+        "documentation": {}
+    },
+    {
         "label": "predictio",
         "kind": 2,
         "importPath": "source_code.main",
